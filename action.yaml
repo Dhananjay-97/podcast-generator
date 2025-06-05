@@ -11,8 +11,8 @@ inouts:
   email: 
     description: The commiter's email address
     required: true
-    default: ${{ github.actor }}@localhost
+    default: Dhananjay-97@localhost
   name:
     description: The commiter's name
     required: true
-    default: ${{ github.actor }}
+    default: Dhananjay-97
